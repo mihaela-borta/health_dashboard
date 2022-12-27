@@ -1,2 +1,3 @@
 # requirements.txt
+pyparsing==3.0.9
 gsheetsdb==0.1.13.1
